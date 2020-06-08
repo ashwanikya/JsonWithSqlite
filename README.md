@@ -1,5 +1,7 @@
 # Save Data in Sqlite DB and solution of following task:
 
+<a href="https://imgur.com/Fq6m2nt"><img src="https://i.imgur.com/Fq6m2nt.gif" title="source: imgur.com" /></a>
+
 # TASK 1
 Create a left navigation drawer like Gmail:
 Reference Link: https://developer.android.com/training/implementing-navigation/nav-drawer.html
